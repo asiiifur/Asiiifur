@@ -18,15 +18,16 @@
 
 </p>
 
-- 💬 Ask me about: .NET
-- 🦸🏻 I’m looking to collaborate on: .NET projects
 
+- 🦸🏻 I’m currently working on Technology and Business Solution Ltd.                                                                            
+- 🦸🏻 I’m currently learning ASP.NET Core
+-  💬 Ask me about: .NET
+- 🦸🏻 I’m looking to collaborate on: .NET projects
 
 </br>
 
 
-🔭 I’m currently working on Technology and Business Solution Ltd.                                                                                                              
-🌱 I’m currently learning ASP.NET Core
+
 
 
 
