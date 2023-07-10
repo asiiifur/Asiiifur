@@ -18,18 +18,12 @@
 
 </p>
 
-- 📃 I blog here: https://moien.dev
-- 💬 Ask me about: .NET, Architecture, Microservices, Performance, DevOps, DDD
+- 💬 Ask me about: .NET
 - 🦸🏻 I’m looking to collaborate on: .NET projects
-- 👾 Follow my programming channel on Telegram with +56K subscribers: [@ProgrammingTip](https://t.me/ProgrammingTip)
+
 
 </br>
 
-<p align="center">
- <a href="#" alt="Moien Tajik's github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoienTajik&theme=tokyonight&show_icons=true" />
- </a>
-</p>
 
 🔭 I’m currently working on Technology and Business Solution Ltd.                                                                                                              
 🌱 I’m currently learning ASP.NET Core
