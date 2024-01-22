@@ -14,14 +14,17 @@
 
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="60" height="60" />
+  <img src="ttps://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetCore" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetCore" width="60" height="60" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetCore" width="60" height="60" />
 
 </p>
 
 
 - 🦸🏻 I’m currently working on Technology and Business Solution Ltd.                                                                            
 - 🦸🏻 I’m currently learning ASP.NET Core
--  💬 Ask me about: .NET
+-  💬 Ask me about .NET
 - 🦸🏻 I’m looking to collaborate on: .NET projects
 
 </br>
