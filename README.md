@@ -3,7 +3,11 @@
  I'm Asifur Rahaman 
 </h1>
 
-
+<p align="center"> 
+ <strong>
+ Connect with Me
+  </strong>
+</p>
 <p align="center">
  <a href="https://linkedin.com/in/asiiifur/" target="_blank">
   <img src="https://img.icons8.com/fluent/60/000000/linkedin.png" />
