@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Asifur Rahaman 👋</h1>
+<h1 align="center">Hi..., I'm Asifur Rahaman 👋</h1>
 
 <p align="center">
  <a href="https://linkedin.com/in/asiiifur/" target="_blank">
@@ -25,11 +25,10 @@
 
 </p>
 
-
-- 🦸🏻 I’m currently working on Technology and Business Solution Ltd.                                                                            
-- 🦸🏻 I’m currently learning ASP.NET Core
--  💬 Ask me about .NET
+- 🦸🏻 I’m currently working on Technology and Business Solution Ltd.                                                          
+- 🦸🏻 I’m currently learning ASP.NET Core & Angular
 - 🦸🏻 I’m looking to collaborate on: .NET projects
+- 💬 Ask me about .NET
 
 </br>
 
