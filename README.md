@@ -1,5 +1,5 @@
 <h1 align="center">Hi...👋</h1>
-<h2 align="center">I'm Asifur Rahaman </h2>
+<h2 align="center" border="None">I'm Asifur Rahaman </h2>
 
 <p align="center">
  <a href="https://linkedin.com/in/asiiifur/" target="_blank">
