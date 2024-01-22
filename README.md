@@ -1,5 +1,8 @@
-<h1 align="center">Hi...👋</h1>
-<h2 align="center" border="None">I'm Asifur Rahaman </h2>
+<h1 align="center">Hi...👋
+ </br>
+ I'm Asifur Rahaman 
+</h1>
+
 
 <p align="center">
  <a href="https://linkedin.com/in/asiiifur/" target="_blank">
