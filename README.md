@@ -17,7 +17,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetCore" width="60" height="60" />
   <img src="https://githubusercontent.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="MSSQL" width="60" height="60" />
-    <img src="https://githubusercontent.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60" />
+    <img src="[https://githubusercontent.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg)" alt="MySQL" width="60" height="60" />
 
 </p>
 
