@@ -4,7 +4,11 @@
  <a href="https://linkedin.com/in/asiiifur/" target="_blank">
   <img src="https://img.icons8.com/fluent/60/000000/linkedin.png" />
  </a>
+  <a href="https://www.facebook.com/asiiifur/" target="_blank">
+  <img src="https://img.icons8.com/fluent/60/00000/facebook.png" />
+ </a>
 </p>
+
 
 <p align="center"> 
  <strong>
