@@ -29,7 +29,8 @@
   </a>
   &nbsp;
   <a href="mailto:asifur.dev@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png" title="Gmail" width="40" />
+      <img src="https://skillicons.dev/icons?i=gmail" title="gmail" height="45" />
+
   </a>
 </p>
 
