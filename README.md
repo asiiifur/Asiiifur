@@ -49,9 +49,9 @@
   
  
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=vscode ,postman" height="45" />
+  <img src="https://skillicons.dev/icons?i= vscode,postman" height="45" />
   
-  <img src="https://skillicons.dev/icons?i=postman" height="45" />
+  <img src="https://skillicons.dev/icons?i= postman" height="45" />
 
   <!-- Cloud -->
   <img src="https://img.icons8.com/color/48/000000/azure-1.png" title="Microsoft Azure" height="45" />
