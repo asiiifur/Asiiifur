@@ -1,55 +1,76 @@
-<h1 align="center">Hi...👋
- </br>
- I'm Asifur Rahaman 
-</h1>
+<h1 align="center">Hi there, I'm Asifur Rahaman 👋</h1>
 
-<p align="center"> 
- <strong>
- Connect with Me
-  </strong>
-</p>
 <p align="center">
- <a href="https://linkedin.com/in/asiiifur/" target="_blank">
-  <img src="https://img.icons8.com/fluent/60/000000/linkedin.png" />
- </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=435&lines=Software+Engineer;Full-Stack+.NET+Developer;Lifelong+Learner+%F0%9F%8E%93;Tech+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
+
+---
+
+## 🧑‍💼 About Me
+- 💼 Working at **Technology and Business Solution Ltd.**
+- 📚 Currently learning **ASP.NET Core** & **Angular**
+- 🤝 Looking to collaborate on **.NET Projects**
+- 💬 Ask me anything about **.NET**, **C#**, or **SQL**
+- 🎯 Passionate about building scalable web applications
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/asiiifur/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+  </a>
+  &nbsp;
   <a href="https://www.facebook.com/asiiifur/" target="_blank">
-  <img src="https://img.icons8.com/fluent/60/00000/facebook.png" />
- </a>
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
+  </a>
 </p>
 
+---
 
-<p align="center"> 
- <strong>
-  Professional skills
-  </strong>
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
 </p>
 
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetCore" width="60" height="60" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="MSSQL" width="60" height="60" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60" />
+---
 
+## 🚀 Professional Skills
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="60" height="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="60" height="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="60" height="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" />
 </p>
 
-- 🦸🏻 I’m currently working on Technology and Business Solution Ltd.                                                          
-- 🦸🏻 I’m currently learning ASP.NET Core & Angular
-- 🦸🏻 I’m looking to collaborate on: .NET projects
-- 💬 Ask me about .NET
+---
 
-</br>
+## 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asiiifur&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiiifur&theme=radical" height="180"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiiifur&layout=compact&theme=radical"/>
+</p>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+---
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
-
+<!-- Created with love by Asifur Rahaman ❤️ -->
