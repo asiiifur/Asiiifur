@@ -38,14 +38,23 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <!-- Skillicons-supported tech -->
-  <img src="https://skillicons.dev/icons?i=dotnet,react,ts,js,html,css,git,github,mysql,figma,vscode" height="45" />
 
-  <!-- Custom tech icons -->
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" height="45" />
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" title="C#" height="45" />
-  <img src="https://img.icons8.com/color/48/000000/azure-1.png" title="Microsoft Azure" height="45" />
-  <img src="https://img.icons8.com/fluency/48/visual-studio-2019.png" title="Visual Studio" height="45" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="45" />
   <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-microsoft-sql-server-logo-flat-flat-juicy-fish.png" title="Microsoft SQL Server" height="45" />
+
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css" height="45" />
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" height="45" />
+  <img src="https://img.icons8.com/fluency/48/visual-studio-2019.png" title="Visual Studio IDE" height="45" />
+
+  <!-- Cloud -->
+  <img src="https://img.icons8.com/color/48/000000/azure-1.png" title="Microsoft Azure" height="45" />
+
 </p>
 
 > 🔄 Exploring: **Docker**, **Azure DevOps**, **GitHub Actions**, and **Cloud Automation**
