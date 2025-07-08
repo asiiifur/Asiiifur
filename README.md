@@ -39,20 +39,19 @@
 
 ## 💻 Tech Stack
 
-
 <p align="center">
-
-  <!-- Supported by skillicons.dev -->
-  <img src="https://skillicons.dev/icons?i=dotnet,react,js,html,css,git,github,mysql,mssql,figma,vscode" height="45" />
   
-  <!-- C# icon (external source) -->
+  <!-- Skillicons (works out of the box) -->
+  <img src="https://skillicons.dev/icons?i=dotnet,react,js,html,css,git,github,mysql,figma,vscode" height="45" />
+  
+  <!-- External icons to complete missing ones -->
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" title="C#" height="45" />
-
-  <!-- Azure icon (external source) -->
   <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" title="Microsoft Azure" height="45" />
-
-  <!-- Visual Studio icon -->
   <img src="https://img.icons8.com/fluency/48/visual-studio-2019.png" alt="Visual Studio" title="Visual Studio IDE" height="45" />
+
+  <!-- Microsoft SQL Server -->
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-microsoft-sql-server-logo-flat-flat-juicy-fish.png" 
+       alt="MSSQL" title="Microsoft SQL Server" height="45" />
 
 </p>
 
