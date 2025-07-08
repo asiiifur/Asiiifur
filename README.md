@@ -46,10 +46,12 @@
 
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,ts,js,react" height="45" />
-
+  
+ 
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" height="45" />
-  <img src="https://img.icons8.com/fluency/48/visual-studio-2019.png" title="Visual Studio IDE" height="45" />
+  <img src="https://skillicons.dev/icons?i=vscode ,postman" height="45" />
+  
+  <img src="https://skillicons.dev/icons?i=postman" height="45" />
 
   <!-- Cloud -->
   <img src="https://img.icons8.com/color/48/000000/azure-1.png" title="Microsoft Azure" height="45" />
