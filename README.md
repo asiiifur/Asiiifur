@@ -23,15 +23,15 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/asiiifur/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin-circled--v1.png" title="LinkedIn" width="45" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   &nbsp;
   <a href="https://www.facebook.com/asiiifur/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/1877F2/facebook-new.png" title="Facebook" width="45" />
+    <img src="https://img.icons8.com/ios-filled/50/1877F2/facebook-new.png" title="Facebook" width="40" />
   </a>
   &nbsp;
   <a href="mailto:asifur.dev@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail-new.png" title="Gmail" width="45" />
+    <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png" title="Gmail" width="40" />
   </a>
 </p>
 
@@ -40,49 +40,39 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=101010" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=101010" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=101010" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=101010" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010" />
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white&labelColor=101010" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=101010" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010" />
+  <img src="https://skillicons.dev/icons?i=dotnet,csharp,react,js,html,css,git,github,mysql,mssql,azure,figma,vscode" />
 </p>
+
+> 🧠 I'm expanding into: **CI/CD**, **GitHub Actions**, **Docker**, and **Azure DevOps**
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asiiifur&show_icons=true&theme=tokyonight&border_radius=10" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiiifur&theme=tokyonight&border_radius=10" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asiiifur&show_icons=true&theme=nightowl&border_radius=12&hide=issues" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asiiifur&theme=nightowl&border_radius=12" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiiifur&layout=compact&theme=tokyonight&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiiifur&layout=compact&theme=nightowl&border_radius=12" />
 </p>
 
 ---
 
-## 🚀 Goals for 2025
+## 🎯 Goals for 2025
 
-- ✅ Master **React** and build full-stack apps
-- 📦 Improve **CI/CD pipelines** with GitHub Actions & Azure DevOps
-- 🌐 Share tutorials & help others break into DevOps
-- ✍️ Write technical blogs and share knowledge with the community
+- 🎓 Master modern **React + TypeScript**
+- 🔧 Build and deploy apps using **CI/CD pipelines**
+- ☁️ Launch cloud projects with **Azure + Docker**
+- 📝 Share tutorials to help junior developers in .NET and DevOps
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asiiifur&label=Profile%20Views&color=0e75b6&style=flat" alt="asiiifur" />
+  <img src="https://komarev.com/ghpvc/?username=asiiifur&label=Profile%20Views&color=0e75b6&style=flat-rounded" alt="asiiifur" />
 </p>
 
 ---
 
-<!-- Modern Profile Generated with ❤️ by ChatGPT for Asifur Rahaman -->
-
+<!-- ✨ built with ❤️ -->
