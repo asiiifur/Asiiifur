@@ -39,8 +39,21 @@
 
 ## 💻 Tech Stack
 
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,csharp,react,js,html,css,git,github,mysql,mssql,azure,figma,vscode" />
+
+  <!-- Supported by skillicons.dev -->
+  <img src="https://skillicons.dev/icons?i=dotnet,react,js,html,css,git,github,mysql,mssql,figma,vscode" height="45" />
+  
+  <!-- C# icon (external source) -->
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" title="C#" height="45" />
+
+  <!-- Azure icon (external source) -->
+  <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" title="Microsoft Azure" height="45" />
+
+  <!-- Visual Studio icon -->
+  <img src="https://img.icons8.com/fluency/48/visual-studio-2019.png" alt="Visual Studio" title="Visual Studio IDE" height="45" />
+
 </p>
 
 > 🧠 I'm expanding into: **CI/CD**, **GitHub Actions**, **Docker**, and **Azure DevOps**
