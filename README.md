@@ -41,12 +41,10 @@
 
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=dotnet,cs" title=".NET" height="45" />
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" title="C#" height="45" />
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="45" />
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-microsoft-sql-server-logo-flat-flat-juicy-fish.png" title="Microsoft SQL Server" height="45" />
+  
 
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css" height="45" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,ts,js,react" height="45" />
 
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" height="45" />
